@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=APLine
+comment1.params=initialA\ initialB\ initialC
+comment1.target=APLine(int,\ int,\ int)
+comment1.text=\ constructs\ an\ APLine\ object\ (ax+by+c\=0)\ with\ 3\ different\ userdefined\ variables\r\n\ @param\ initialA\ integer\ coefficient\ of\ the\ x\r\n\ @param\ initialB\ integer\ coefficient\ of\ the\ y\r\n\ @param\ initialC\ integer\ constant\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\ formats\ the\ output\ of\ an\ APLine\ to\ be\ ax\ +\ by\ +\ c\ \=\ 0\r\n\ @param\ none\r\n\ @return\ equation\r\n
+comment3.params=
+comment3.target=double\ getSlope()
+comment3.text=\ divides\ -a\ by\ b\ to\ produce\ the\ slope\ of\ the\ line\r\n\ @param\ none\r\n\ @return\ slope\ as\ a\ double\ number\ \r\n
+comment4.params=x\ y
+comment4.target=boolean\ isOnLine(int,\ int)
+comment4.text=\ plugs\ in\ x\ and\ y\ coordinate\ of\ an\ ordered\ pair\ and\ checks\ if\ its\ a\ solution\r\n\ @param\ x\ integer\ x-coordinate\ of\ an\ ordered\ pair\r\n\ @param\ y\ integer\ y-coordinate\ of\ an\ ordered\ pair\r\n\ @return\ true\ or\ false\r\n
+numComments=5

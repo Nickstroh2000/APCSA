@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Freshman
+comment1.params=
+comment1.target=Freshman()
+comment2.params=initName\ initGrade\ initHasStyle
+comment2.target=Freshman(java.lang.String,\ int,\ boolean)
+numComments=3

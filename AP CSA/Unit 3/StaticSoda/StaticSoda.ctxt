@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StaticSoda
+comment1.params=
+comment1.target=StaticSoda()
+comment2.params=
+comment2.target=java.lang.String\ getSodaCount()
+comment3.params=
+comment3.target=void\ buySoda()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

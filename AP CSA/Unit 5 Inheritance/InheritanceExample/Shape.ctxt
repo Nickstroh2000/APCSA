@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=
+comment1.target=Shape()
+comment2.params=initialColor
+comment2.target=Shape(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

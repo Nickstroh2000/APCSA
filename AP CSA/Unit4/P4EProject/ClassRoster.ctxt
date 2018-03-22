@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ClassRoster
+comment1.params=
+comment1.target=ClassRoster()
+comment2.params=newStudent
+comment2.target=void\ addStudent(Student)
+comment2.text=\ addStudent\ will\ add\ a\ given\ Student\ to\ the\ ArrayList\r\n\ enrolledStudents\ to\ the\ end\ of\ the\ ArrayList.\r\n\ @param\ newStudent\ object\r\n
+comment3.params=lastName
+comment3.target=void\ dropStudent(java.lang.String)
+comment3.text=\ dropStudent\ will\ drop\ a\ student\ with\ the\ given\ last\r\n\ name\ from\ the\ enrolledStudent\ array\ list\r\n\ @param\ lastName\ in\ the\ form\ of\ a\ String\r\n
+comment4.params=
+comment4.target=void\ newYear()
+comment4.text=\ newYear\ will\ advance\ every\ student\ to\ the\ next\ grade\ &\r\n\ deletes\ any\ student\ who\ has\ graduated\ past\ Grade\ 12.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ toString\ will\ print\ out\ each\ student\ on\ a\ new\ line\r\n\ Do\ not\ use\ the\ ArrayList\ class's\ default\ printing.\r\n\ @return\ String\r\n
+numComments=6

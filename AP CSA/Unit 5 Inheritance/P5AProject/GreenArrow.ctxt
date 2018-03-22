@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GreenArrow
+comment1.params=
+comment1.target=GreenArrow()
+comment2.params=initName\ initHasArrows
+comment2.target=GreenArrow(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ sayMotto()
+numComments=4

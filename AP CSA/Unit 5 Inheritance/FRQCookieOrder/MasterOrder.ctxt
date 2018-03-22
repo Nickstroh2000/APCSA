@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MasterOrder
+comment1.params=
+comment1.target=MasterOrder()
+comment2.params=theOrder
+comment2.target=void\ addOrder(CookieOrder)
+comment3.params=
+comment3.target=int\ getTotalBoxes()
+comment4.params=cookieVar
+comment4.target=int\ removeVariety(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

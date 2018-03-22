@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RightTriangle
+comment1.params=
+comment1.target=RightTriangle()
+comment2.params=initialBaseLength\ initialHeightLength
+comment2.target=RightTriangle(int,\ int)
+comment3.params=
+comment3.target=int\ getBase()
+comment4.params=newBaseLength
+comment4.target=void\ setBase(int)
+comment5.params=
+comment5.target=double\ calcHypotenuse()
+comment6.params=
+comment6.target=double\ calcAlpha()
+comment7.params=
+comment7.target=double\ calcArea()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuperMan
+comment1.params=
+comment1.target=SuperMan()
+comment2.params=initName\ initInUniform
+comment2.target=SuperMan(java.lang.String,\ boolean)
+numComments=3

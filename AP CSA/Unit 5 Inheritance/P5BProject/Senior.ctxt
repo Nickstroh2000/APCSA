@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Senior
+comment1.params=
+comment1.target=Senior()
+comment2.params=initName\ initGrade\ initGoingToCollege
+comment2.target=Senior(java.lang.String,\ int,\ boolean)
+numComments=3

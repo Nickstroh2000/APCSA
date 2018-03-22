@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MusicDownloads
+comment1.params=
+comment1.target=MusicDownloads()
+comment1.text=Creates\ the\ list\ of\ downloaded\ information
+comment2.params=title
+comment2.target=DownloadInfo\ getDownloadInfo(java.lang.String)
+comment2.text=\ Returns\ a\ reference\ to\ the\ DownloadInfo\ object\ with\ the\ requested\ title\ if\ it\ exists\r\n\ \ @param\ title\ the\ requested\ title\r\n\ \ @return\ a\ reference\ to\ the\ DownloadInfo\ object\ with\ the\ title\ that\ matches\ the\r\n\ \ parameter\ title\ if\ it\ exists\ in\ the\ list;\ null\ otherwise\r\n
+comment3.params=titles
+comment3.target=void\ updateDownloads(java.util.List)
+comment3.text=\ Updates\ downloadList\ with\ information\ from\ titles.\r\n\ \ @param\ titles\ a\ list\ of\ song\ titles\r\n\ \ Postcondition\:\r\n\ \ -there\ are\ no\ duplicate\ titles\ in\ downloadList\r\n\ \ -no\ entries\ were\ removed\ from\ downloadList\r\n\ \ -all\ songs\ in\ titles\ are\ represented\ in\ downloadList\r\n\ \ -for\ each\ existing\ entry\ in\ downloadList,\ the\ download\ count\ is\ increased\ by\ the\r\n\ \ number\ of\ times\ its\ title\ appeared\ in\ titles.\r\n\ \ -the\ order\ of\ the\ existing\ entries\ in\ downloadList\ is\ not\ changed\r\n\ \ -the\ first\ time\ an\ object\ with\ a\ title\ from\ titles\ is\ added\ to\ the\ downloadList,\ it\r\n\ \ is\ added\ to\ the\ end\ of\ the\ list.\r\n\ \ -new\ entries\ in\ downloadList\ appear\ in\ the\ same\ order\ in\ which\ they\ first\ appear\ in\ titles\r\n\ \ -for\ each\ new\ entry\ in\ downloadList,\ the\ download\ count\ is\ equal\ to\ the\ number\ of\ times\ its\r\n\ \ title\ appeared\ in\ titles.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
