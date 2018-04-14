@@ -31,14 +31,12 @@ public class DiverseArray
     public static int[] rowSums( int[][] arr2D )
     {
         int[] sum = new int[arr2D.length];
-        for (int r = 0; r < arr2D.length; r++)
-        {
-            for (int c = 0; c < arr2D[0].length; c++)
-            {
-                sum[r] = sum[r][c];
+        for (int r = 0; r < arr2D.length; r++) {
+            for (int c = 0; c < arr2D[0].length; c++) {
+                sum[r] = arraySum(arr2D[r]);
             }
         }
-
+        return sum;
     }
 
     /** Part (c): Assume that arraySum and rowSums work as specified, regardless of what you wrote in parts (a) and (b).
@@ -51,6 +49,14 @@ public class DiverseArray
 
     public static boolean isDiverse( int[][] arr2D )
     {
-
+        int[] sums = rowSums(arr2D);
+        for (int index = 0; index < sums.length-1; index++){
+            for (int i = index+1; i < sums.length; i++) {
+                if (sums[index] == sums[i]){
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }

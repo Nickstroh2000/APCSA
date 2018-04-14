@@ -11,10 +11,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Integer2DArray.class" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Integer2DArray.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Integer2DArray.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-250">
+            <state relative-caret-position="259">
               <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
               <folding>
                 <marker date="1521563526000" expanded="true" signature="0:104" ph="/.../" />
@@ -25,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String2DArray.class" pinned="false" current-in-tab="false">
+      <file leaf-file-name="String2DArray.class" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/String2DArray.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -46,7 +46,7 @@
       <projects_view />
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="59" />
     <option name="width" value="1260" />
     <option name="height" value="661" />
@@ -66,10 +66,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,6 +83,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +222,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="59" width="1260" height="661" extended-state="1" />
+    <frame x="0" y="59" width="1260" height="661" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -264,6 +264,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Integer2DArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521563526000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1521563526000" expanded="true" signature="164:171" ph="{}" />
+            <marker date="1521563526000" expanded="true" signature="216:2502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String2DArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <marker date="1521735808000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521735808000" expanded="true" signature="191:198" ph="{}" />
+            <marker date="1521735808000" expanded="true" signature="243:1688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Integer2DArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521563526000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1521563526000" expanded="true" signature="164:171" ph="{}" />
+            <marker date="1521563526000" expanded="true" signature="216:2502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String2DArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <marker date="1521735808000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1521735808000" expanded="true" signature="191:198" ph="{}" />
+            <marker date="1521735808000" expanded="true" signature="243:1688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Integer2DArray.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -396,6 +444,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Integer2DArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+          <folding>
+            <marker date="1521563526000" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1521563526000" expanded="true" signature="164:171" ph="{}" />
+            <marker date="1521563526000" expanded="true" signature="216:2502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/String2DArray.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -404,18 +464,6 @@
             <marker date="1521735808000" expanded="false" signature="0:104" ph="/.../" />
             <marker date="1521735808000" expanded="true" signature="191:198" ph="{}" />
             <marker date="1521735808000" expanded="true" signature="243:1688" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Integer2DArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="29" column="59" lean-forward="false" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
-          <folding>
-            <marker date="1521563526000" expanded="true" signature="0:104" ph="/.../" />
-            <marker date="1521563526000" expanded="true" signature="164:171" ph="{}" />
-            <marker date="1521563526000" expanded="true" signature="216:2502" ph="{...}" />
           </folding>
         </state>
       </provider>
